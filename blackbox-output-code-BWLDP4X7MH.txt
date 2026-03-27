@@ -1,0 +1,10 @@
+# 1. Create React app
+npx create-react-app bodyprime-nutrition
+cd bodyprime-nutrition
+
+# 2. Install dependencies
+npm install lucide-react
+
+# 3. Replace src/App.js with the code below
+# 4. Run the app
+npm start
